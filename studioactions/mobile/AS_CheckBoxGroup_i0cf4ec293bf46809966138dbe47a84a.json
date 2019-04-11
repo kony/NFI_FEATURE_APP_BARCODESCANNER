@@ -1,0 +1,31 @@
+{
+    "AS_CheckBoxGroup_i0cf4ec293bf46809966138dbe47a84a": {
+        "id": "AS_CheckBoxGroup_i0cf4ec293bf46809966138dbe47a84a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "ce0e421969604cb3bd0fc0f01fcd82bf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___fa95599055684817bbd703a9d6e40e4b",
+            "type": "NAVIGATE_TO_FORM",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }, {
+            "id": "ADD_SNIPPET__a454427c5f9040798789d7762ba27ffb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

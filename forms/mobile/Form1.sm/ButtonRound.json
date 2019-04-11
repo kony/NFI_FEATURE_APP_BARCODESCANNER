@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "sbd53e23f0984e3499a49b5f8b864617",
+    "_text_": "Start Scan",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s04c0a1aa8dd4fbf93118a0c6e053375",
+    "id": "ButtonRound",
+    "ide_onClick": "AS_Button_c2a3a1eef3744e4f86f967d5b7dcec46",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cdae4bb2dfe8460ba99a2260cec99dcd",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "PaddedButtonRound",
+    "pf": "Form1",
+    "wType": "Button",
+    "zindex": 1
+}
