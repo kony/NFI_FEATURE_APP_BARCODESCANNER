@@ -1,6 +1,19 @@
-# NFI_FEATURE_APP_BARCODESCANNER
-This app is mainly used to highlight the NFI capabilities of Kony platform to use native mobile functionalities in the apps developed on Kony platform
+# Kony NFI Barcode Scanner
 
-This app is built around the use case of barcode scanning in different mobile platforms as:
-•	Android Mobile: invokes zxing barcode scanner using NFI.
-•	iPhone : uses AVFoundation native framework to scan barcode using NFI.
+A sample application built with [Kony Visualizer](https://www.kony.com/products/visualizer/)
+that implements a barcode scanner by leveraging native Android and iOS libraries. 
+
+The goal of this project is not the barcode scanner in itself but rather to
+showcase the capabilities of the Kony platform to import and use native API's
+directly in Javascript code — something which in Kony terminology is known as
+Native Function Interface (NFI).
+
+For more information on NFI go to:
+
+* [iOS NFI](http://docs.kony.com/konylibrary/visualizer/viz_api_dev_guide/Default.htm#guidelines_ios.htm)
+* [Android NFI](http://docs.kony.com/konylibrary/visualizer/viz_api_dev_guide/Default.htm#guidelines_android.htm)
+
+This app leverages the following native libraries:
+
+* Android phone: [ZXing](https://github.com/zxing/zxing).
+* iPhone: [AVFoundation](https://developer.apple.com/av-foundation/).
