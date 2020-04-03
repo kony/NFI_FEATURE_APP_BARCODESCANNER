@@ -1,0 +1,287 @@
+{
+    "NativeFunctionAPI": {
+        "iOS": {
+            "11.0": {
+                "BarcodeScanner-iOS-11.0": {
+                    "title": "BarcodeScanner",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "C:\\\\Users\\\\KH9132\\\\Desktop\\\\generated bindings\\\\BarcodeScanner-iOS-11.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\iOS\\11.0\\BarcodeScanner-iOS-11.0.zip",
+                    "enable": true
+                },
+                "Kony_SyncV2-iOS-11.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "G:\\kony\\environment\\V8GA\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\502\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SyncV2-iOS-11.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\iOS\\11.0\\Kony_SyncV2-iOS-11.0.zip",
+                    "enable": true
+                },
+                "AVFoundation-iOS-11.0": {
+                    "title": "AVFoundation",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "/visualizer/nativeframeworks/ios/7.0/AVFoundation-iOS-11.0.zip",
+                    "checksum": "a8de02015c1077a43aee4415860c85f12b169773",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\iOS\\11.0\\AVFoundation-iOS-11.0.zip",
+                    "enable": true
+                },
+                "AVKit-iOS-11.0": {
+                    "title": "AVKit",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "/visualizer/nativeframeworks/ios/7.0/AVKit-iOS-11.0.zip",
+                    "checksum": "7f522a430e9eb5d5af0a4d25449907e33cbe932a",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\iOS\\11.0\\AVKit-iOS-11.0.zip",
+                    "enable": true
+                },
+                "UIKit-iOS-11.0": {
+                    "title": "UIKit",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "/visualizer/nativeframeworks/ios/7.0/UIKit-iOS-11.0.zip",
+                    "checksum": "6effc8bb47bc4871c124071357b0406b523c2a0e",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\iOS\\11.0\\UIKit-iOS-11.0.zip",
+                    "enable": true
+                }
+            },
+            "10.0": {
+                "Foundation-iOS-10.0": {
+                    "title": "Foundation",
+                    "platform": "iOS",
+                    "os": "10.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import1441032783\\nativebindings\\iOS\\10.0\\Foundation-iOS-10.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\iOS\\10.0\\Foundation-iOS-10.0.zip",
+                    "enable": true
+                },
+                "UIKit-iOS-10.0": {
+                    "title": "UIKit",
+                    "platform": "iOS",
+                    "os": "10.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import1441032783\\nativebindings\\iOS\\10.0\\UIKit-iOS-10.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\iOS\\10.0\\UIKit-iOS-10.0.zip",
+                    "enable": true
+                }
+            },
+            "11.1": {}
+        },
+        "Android": {
+            "4.0": {
+                "Kony_SyncV2-Android-4.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\environment\\V8GA\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\459\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SyncV2-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\Kony_SyncV2-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.accounts-Android-4.0": {
+                    "title": "android.accounts",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import1441032783\\nativebindings\\Android\\4.0\\android.accounts-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\android.accounts-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.webkit-Android-4.0": {
+                    "title": "android.webkit",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import1441032783\\nativebindings\\Android\\4.0\\android.webkit-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\android.webkit-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.net-Android-4.0": {
+                    "title": "android.net",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import1441032783\\nativebindings\\Android\\4.0\\android.net-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\android.net-Android-4.0.zip",
+                    "enable": true
+                },
+                "java.lang-Android-4.0": {
+                    "title": "java.lang",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import1441032783\\nativebindings\\Android\\4.0\\java.lang-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\java.lang-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.content-Android-4.0": {
+                    "title": "android.content",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import1441032783\\nativebindings\\Android\\4.0\\android.content-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\android.content-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.os-Android-4.0": {
+                    "title": "android.os",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import1441032783\\nativebindings\\Android\\4.0\\android.os-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\android.os-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.app.job-Android-4.0": {
+                    "title": "android.app.job",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import732157158\\nativebindings\\Android\\API level 23\\android.app.job-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\android.app.job-Android-4.0.zip"
+                },
+                "android.support.v7.app-Android-4.0": {
+                    "title": "android.support.v7.app",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import732157158\\nativebindings\\Android\\API level 23\\android.support.v7.app-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\android.support.v7.app-Android-4.0.zip"
+                },
+                "java.util-Android-4.0": {
+                    "title": "java.util",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import732157158\\nativebindings\\Android\\API level 23\\java.util-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\java.util-Android-4.0.zip"
+                },
+                "android.app-Android-4.0": {
+                    "title": "android.app",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import732157158\\nativebindings\\Android\\API level 23\\android.app-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\android.app-Android-4.0.zip"
+                },
+                "android.view-Android-4.0": {
+                    "title": "android.view",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import732157158\\nativebindings\\Android\\API level 23\\android.view-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\android.view-Android-4.0.zip"
+                },
+                "android.widget-Android-4.0": {
+                    "title": "android.widget",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "G:\\kony\\workspace\\VIZ81GAWS\\.imports\\.temp\\import732157158\\nativebindings\\Android\\API level 23\\android.widget-Android-4.0.zip",
+                    "filepath": "G:\\kony\\workspace\\VIZ81GAWS\\BarcodeScannerNFI\\nativebindings\\Android\\4.0\\android.widget-Android-4.0.zip"
+                }
+            },
+            "API level 23": {
+                "android.app.job-Android-API level 23": {
+                    "title": "android.app.job",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/android.app.job-Android-4.0.zip",
+                    "checksum": "86a32738dbc0c2f845eacfbbe1a05f1d95df7296",
+                    "projectName": "JobScheduler",
+                    "filepath": "G:\\kony\\workspace\\V8GAspace\\BarcodeScannerNFI\\nativebindings\\Android\\API level 23\\android.app.job-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.accounts-Android-API level 23": {
+                    "title": "android.accounts",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/android.accounts-Android-4.0.zip",
+                    "checksum": "76c75e511ec96dbbcaa8d69a6d0c8c3f46978736",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\V8GAspace\\BarcodeScannerNFI\\nativebindings\\Android\\API level 23\\android.accounts-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.app-Android-API level 23": {
+                    "title": "android.app",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/android.app-Android-4.0.zip",
+                    "checksum": "e888b69438a74adad3c21577c08a5d062e23664a",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\V8GAspace\\BarcodeScannerNFI\\nativebindings\\Android\\API level 23\\android.app-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.content-Android-API level 23": {
+                    "title": "android.content",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/android.content-Android-4.0.zip",
+                    "checksum": "3ce60c47b75c2ad0dc7449d6b43c2842d2b6f103",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\V8GAspace\\BarcodeScannerNFI\\nativebindings\\Android\\API level 23\\android.content-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.net-Android-API level 23": {
+                    "title": "android.net",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/android.net-Android-4.0.zip",
+                    "checksum": "f20197e00555e1bc07d01e5d557ea448d2d06d7e",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\V8GAspace\\BarcodeScannerNFI\\nativebindings\\Android\\API level 23\\android.net-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.os-Android-API level 23": {
+                    "title": "android.os",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/android.os-Android-4.0.zip",
+                    "checksum": "de5b237fa8c25c9d37da33a2eeb957d76b755823",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\V8GAspace\\BarcodeScannerNFI\\nativebindings\\Android\\API level 23\\android.os-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.support.v7.app-Android-API level 23": {
+                    "title": "android.support.v7.app",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/android.support.v7.app-Android-4.0.zip",
+                    "checksum": "bd14c33863d7495a0c2b6a30a074194b34760310",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\V8GAspace\\BarcodeScannerNFI\\nativebindings\\Android\\API level 23\\android.support.v7.app-Android-4.0.zip",
+                    "enable": true
+                },
+                "java.util-Android-API level 23": {
+                    "title": "java.util",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/java.util-Android-4.0.zip",
+                    "checksum": "a365483103a0476fcc989a4f2db0cb604ce6b21d",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\V8GAspace\\BarcodeScannerNFI\\nativebindings\\Android\\API level 23\\java.util-Android-4.0.zip",
+                    "enable": true
+                },
+                "java.lang-Android-API level 23": {
+                    "title": "java.lang",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/java.lang-Android-4.0.zip",
+                    "checksum": "533a415b37960853c802e7f3224f45225d745029",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\V8GAspace\\BarcodeScannerNFI\\nativebindings\\Android\\API level 23\\java.lang-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.widget-Android-API level 23": {
+                    "title": "android.widget",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/android.widget-Android-4.0.zip",
+                    "checksum": "c0b90eeaee081a707d4f228747a4028059f458e8",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\V8GAspace\\BarcodeScannerNFI\\nativebindings\\Android\\API level 23\\android.widget-Android-4.0.zip",
+                    "enable": true
+                },
+                "android.view-Android-API level 23": {
+                    "title": "android.view",
+                    "platform": "Android",
+                    "os": "API level 23",
+                    "url": "/visualizer/nativeframeworks/android/1.0/android.view-Android-4.0.zip",
+                    "checksum": "c52db0ff022b83a00b5a7f2076660fc397b428f5",
+                    "projectName": "BarcodeScannerNFI",
+                    "filepath": "G:\\kony\\workspace\\V8GAspace\\BarcodeScannerNFI\\nativebindings\\Android\\API level 23\\android.view-Android-4.0.zip",
+                    "enable": true
+                }
+            }
+        }
+    }
+}

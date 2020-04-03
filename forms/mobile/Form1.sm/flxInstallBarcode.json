@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s4e1a25eb66b40d4b9fd5fd8fcace363",
+    "_top_": {
+        "type": "string",
+        "value": "238dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "flxpopupTitle",
+        "lblPopupMessage",
+        "flxPopupUserActions"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxInstallBarcode",
+    "info": null,
+    "isvisible": true,
+    "kuid": "g0cc96e4f68f4c7eaa4dfd84084753bd",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxPopup",
+    "pf": "Form1",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

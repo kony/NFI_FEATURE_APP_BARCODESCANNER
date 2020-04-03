@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_f98feb9db512412e91007a367234946f": {
+        "id": "AS_FlexContainer_f98feb9db512412e91007a367234946f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b54016e4af4f4b9782ca3bc161d577b6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.cancelScanningIOS();",
+            "callbackType": null
+        }]
+    }
+}

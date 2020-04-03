@@ -1,0 +1,134 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s406e012a7bf47b9a160d52c02577a5b",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "needAppMenu": false,
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "bounceszoom": true,
+    "canUpdateUI": true,
+    "children": [
+        "PaddedButtonRound",
+        "txtBarCode",
+        "lblBarCode",
+        "flxPopup",
+        "flxIosScannerHolder",
+        "flxTitle"
+    ],
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "mobile",
+            "name": "Form1Controller"
+        }
+    },
+    "desktopweb": {
+        "needAppMenu": false
+    },
+    "displayorientation": 1,
+    "enabledforidletimeout": false,
+    "id": "Form1",
+    "ide_postShow": "AS_Form_ceacfa6d9d5349fe8b39bfdc617cc4e5",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ipad": {
+        "psp": {
+            "inputAccessoryViewType": 4
+        }
+    },
+    "iphone": {
+        "needAppMenu": false,
+        "psp": {
+            "bouncesZoom": true,
+            "configureStatusBarStyle": true,
+            "inputAccessoryViewType": 4,
+            "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
+            "titleBarAttributes": {
+                "barStyle": 0,
+                "hidesBackButton": true,
+                "kuid": "j1f80e459a1049a7b0d6f2dfd229c366",
+                "leftBarButtonItems": [
+                    {
+                        "buttonClosureLeftSideView": "",
+                        "kuid": "ec1dc18dc9a344e49e3ba18913087bd1",
+                        "leftButtonText": "Back",
+                        "leftTitle": "Back",
+                        "prevFormTitle": false,
+                        "titleBarLeftSideView": "button",
+                        "titleClosureLeftSideView": "",
+                        "type": 4
+                    }
+                ],
+                "leftItemsSupplementBackButton": true,
+                "prompt": "",
+                "renderTitleText": true,
+                "rightBarButtonItems": [
+                    {
+                        "enabled": true,
+                        "info": {
+                            "title": "Edit"
+                        },
+                        "kuid": "c904e4c562ef4502842e59463e2ae9c8",
+                        "onClick": "",
+                        "style": 0,
+                        "type": 1
+                    }
+                ],
+                "tintColor": "333333",
+                "translucent": true
+            }
+        },
+        "titleBar": false
+    },
+    "isvisible": true,
+    "kuid": "eae8de9b5ac047a583d0692fc3cac125",
+    "layouttype": 2,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "paddinginpixel": false,
+    "pagingenabled": false,
+    "retainscrollposition": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "needAppMenu": false
+    },
+    "spabb": {
+        "needAppMenu": false
+    },
+    "spaip": {
+        "needAppMenu": false
+    },
+    "spawinphone8": {
+        "needAppMenu": false
+    },
+    "statusbarstyle": "STATUS_BAR_STYLE_DEFAULT",
+    "titleBarSkin": "s3ee473afcdd4067b40f64da3017103c",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form",
+    "winphone8": {
+        "needAppMenu": false
+    }
+}

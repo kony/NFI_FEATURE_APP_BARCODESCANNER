@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_d1951441a91141518b231f0a8763797c": {
+        "id": "AS_FlexContainer_d1951441a91141518b231f0a8763797c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eae8de9b5ac047a583d0692fc3cac125"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c4a1e79ea12c400a8b10119b2302d6e6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.cancelScanningIOS();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s01d363051a9488187494214d9b39560",
+    "_src_": "backbtn_white.png",
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "Form1",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgBack",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "c8459e56a0c6432292fdd4a18f3943d9",
+    "name": "kony.ui.Image2",
+    "parent": "flxBack",
+    "pf": "Form1",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

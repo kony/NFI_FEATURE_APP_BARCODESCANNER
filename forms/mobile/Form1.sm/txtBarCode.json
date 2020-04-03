@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "sb6b2e35e9484119a754f59a3d5a48af",
+    "_text_": "Here is the code you scanned",
+    "_top_": {
+        "type": "string",
+        "value": "174dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "txtBarCode",
+    "info": null,
+    "isvisible": false,
+    "keyboardstyle": "chatpad",
+    "keyboardtype": "A",
+    "kuid": "bf8e121c61d94292906e1395dbea0b4b",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "Form1",
+    "pf": "Form1",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}
